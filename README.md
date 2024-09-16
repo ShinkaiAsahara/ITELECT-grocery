@@ -21,3 +21,4 @@ A simple Grocery List application for managing grocery items. Built as a prelimi
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/grocery-list-app.git
+(Dont forget to turn on the xampp)
