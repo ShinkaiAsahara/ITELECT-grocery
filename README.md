@@ -14,7 +14,7 @@ A simple Grocery List application for managing grocery items. Built as a prelimi
 
 ## Features
 
-- **Add Items**: Add new items to the grocery list.
+- **Add Items**: Add new items to the grocery list. (Static)
 - **Remove Items**: Remove items from the list.
 - **View Items**: Display current items in the list.
 
