@@ -1,6 +1,4 @@
-<h2>Grocery List App - Mark Jordan</h2>
-
-# Grocery List App
+# Grocery List App - Viernes Jannlenn S.
 
 ## Overview
 
